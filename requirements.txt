@@ -1,0 +1,5 @@
+beautifulsoup4==4.12.3
+colorama==0.4.6
+cssselect==1.2.0
+hdwallet==2.2.1
+Requests==2.31.0
